@@ -1,6 +1,10 @@
-## Erffy Dots - Nvim
-- My nvim configuration files
+## Erffy Dots - [Nvim](https://github.com/neovim/neovim)
+My nvim configuration files
 
 ### Installation Guide
-- Coming soon
+```sh
+bash -c "bash <(curl -sL https://raw.githubusercontent.com/erffy-dots/nvim/main/install.sh)"
+```
 
+### Screenshots
+![](assets/nvim.png)
